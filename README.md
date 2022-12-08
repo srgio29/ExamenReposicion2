@@ -9,7 +9,7 @@ El siguiente repositorio muestra el trabajo realizado como parte del examen de r
 El proyecto de Back-end fue realizado en base a las clases, controladores, repositorios y relaciones que se pueden determinar en el diagrama UML que esta enlace en este archivo
 ![](images/DiagramaUML_Reposicion.jpg)
 
-**## NOTA IMPORTANTE**
+## NOTA IMPORTANTE
 Multiples commits fueron realizados en el repositorio original para este examen: https://github.com/srgio29/ExamenReposicion
 Sin embargo, por problemas tecnicos se tuvo que realizar un repositorio diferente para poder continuar con el proyecto, ya que no se podia actualizar los archivos en el repositorio original. Favor de observar los commits realizados en ambos repositorios.
 
